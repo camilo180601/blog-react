@@ -24,6 +24,9 @@ Install project dependencies by running the following command:
 npm install
 
 Usage
+
+Edit src/helpers: Global.jsx    variable "url" api
+
 Once the installation is complete, you can now run the Blog React project. To start the development server and view the application in your web browser, run the following command:
 
 npm run dev
